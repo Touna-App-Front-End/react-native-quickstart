@@ -4,5 +4,5 @@
 * [前期准备](Docs/Basics/README.md)
 * [ReactNative](Docs/ReactNative/README.md)
 * [Redux](Docs/Redux/README.md)
-* [示例：Git教程](ExampleGit.md)
+* [示例：Git教程](Docs/Examples/README.md)
 
