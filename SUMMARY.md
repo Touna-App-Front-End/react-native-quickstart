@@ -4,5 +4,5 @@
 * 前期准备
 * ReactNative
 * Redux
-* 示例：Git教程
+* [示例：Git教程](ExampleGit.md)
 
