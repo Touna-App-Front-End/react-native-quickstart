@@ -1,5 +1,3 @@
-# My Awesome Book
+# ReactNative&Redux学习指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-test...
+此教程是为了投哪网理财前端团队做App新架构的技术转型编写的学习指南.
