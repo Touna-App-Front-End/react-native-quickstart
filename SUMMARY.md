@@ -4,7 +4,7 @@
 * [前期准备](Docs/Basics/README.md)
    * [GIT](Docs/Basics/GIT/README.md)
    * [Markdown](Docs/Basics/Markdown/README.md)
-   * [Javascript](Docs/Basics/Javascript/README.md)
+   * [JavaScript](Docs/Basics/Javascript/README.md)
 * [ReactNative](Docs/ReactNative/README.md)
 * [Redux](Docs/Redux/README.md)
 * [示例：Git教程](Docs/Examples/README.md)
