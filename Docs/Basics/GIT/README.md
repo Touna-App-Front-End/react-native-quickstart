@@ -21,8 +21,8 @@ git - 简易指南 | 超简单 | [开始学习](http://www.bootcss.com/p/git-gui
 ## 相关工具
 
 
-Name | Platforms | Price
---- | --- | ---
+Image | Name | Platforms | Price
+--- | --- | --- | ---
 SourceTree (**推荐**) | Mac, Windows | Free
 GitHub Desktop | GitHub Desktop | Free
 Tower | Mac | $69/user (Free 30 day trial)
