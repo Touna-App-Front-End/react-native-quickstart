@@ -21,4 +21,20 @@ git - 简易指南 | 超简单 | [开始学习](http://www.bootcss.com/p/git-gui
 ## 相关工具
 
 
+Name | UI | Platforms | Price
+--- | --- | --- | ---
+SourceTree (**👍**) | GUI | Mac, Windows | Free
+GitHub Desktop | GUI | GitHub Desktop | Free
+Tower | GUI | Mac | $69/user (Free 30 day trial)
+GitX-dev | GUI | Mac | Free
+Gitbox | GUI | Mac | $14.99
+
+- Linux
+  - 直接命令行吧
+- Windows
+  - GitHub Desktop
+- Mac OS
+
+
+
 ## Github 使用
