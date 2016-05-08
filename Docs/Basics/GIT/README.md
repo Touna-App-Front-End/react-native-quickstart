@@ -1,4 +1,6 @@
-# Git教程
+# Git使用
+
+## 一、Git教程
 
 搜集了网络上比较好的 Git 使用教程，可以根据自身情况选择一个进行学习, 大部分的教程都涵盖了
 
@@ -15,7 +17,7 @@ GitBook Git教程 | 可以导出pdf、ePub 离线观看 | [开始学习](https:/
 猴子都能懂的GIT入门 | 趣味性学习(超详细) | [开始学习](https://backlogtool.com/git-guide/cn/)
 git - 简易指南 | 超简单 | [开始学习](http://www.bootcss.com/p/git-guide/)
 
-## 相关工具
+## 二、相关工具
 
 
 Image | Name | Platforms | Price
@@ -36,7 +38,7 @@ Image | Name | Platforms | Price
 
 
 
-## Github 使用
+## 三、Github 使用
 
 
 教程 | 描述 | 地址
