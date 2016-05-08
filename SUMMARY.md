@@ -2,8 +2,8 @@
 
 * [自述](README.md)
 * [前期准备](Docs/Basics/README.md)
-   * [GIT](Docs/Basics/GIT/README.md)
    * [Markdown](Docs/Basics/Markdown/README.md)
+   * [GIT](Docs/Basics/GIT/README.md)
    * [JavaScript](Docs/Basics/JavaScript/README.md)
    * [ECMAScript](Docs/Basics/ECMAScript/README.md)
    * [React.js](Docs/Basics/ReactJS/README.md)
