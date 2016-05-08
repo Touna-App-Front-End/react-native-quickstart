@@ -9,6 +9,7 @@ Github官方Git教程 | 交互模式 | [点击访问](https://try.github.io/leve
 OSChina Git教程 | 文字、图片 | [点击访问](https://git.oschina.net/progit/)
 GitBook Git教程 | 可以导出pdf、ePub 离线观看 | [点击访问](https://lvwzhen.gitbooks.io/git-tutorial/content/)
 猴子都能懂的GIT入门 | 趣味性学习(超详细) | [点击访问](https://backlogtool.com/git-guide/cn/)
+git - 简易指南 | 超简单 | [点击访问](http://www.bootcss.com/p/git-guide/)
 
 ## 相关工具
 
