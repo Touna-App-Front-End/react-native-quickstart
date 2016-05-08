@@ -23,7 +23,7 @@ git - 简易指南 | 超简单 | [开始学习](http://www.bootcss.com/p/git-gui
 
 Name | UI | Platforms | Price
 --- | --- | --- | ---
-SourceTree (**👍**) | GUI | Mac, Windows | Free
+SourceTree (**推荐**) | GUI | Mac, Windows | Free
 GitHub Desktop | GUI | GitHub Desktop | Free
 Tower | GUI | Mac | $69/user (Free 30 day trial)
 GitX-dev | GUI | Mac | Free
