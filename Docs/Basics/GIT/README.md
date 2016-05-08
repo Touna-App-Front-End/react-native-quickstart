@@ -39,3 +39,11 @@ Image | Name | Platforms | Price
 
 
 ## Github 使用
+
+
+教程 | 描述 | 地址
+---|---|---
+GitHub 使用手册 (**推荐**) | 文字、图片| [开始学习](http://wiki.jikexueyuan.com/project/github-basics/)
+在Github和Git上fork之简单指南 | 文字 | [开始学习](https://linux.cn/article-4292-1.html)
+如何高效利用GitHub | 文字 | [开始学习](http://www.yangzhiping.com/tech/github.html)
+
