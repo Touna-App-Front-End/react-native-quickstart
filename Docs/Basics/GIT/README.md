@@ -4,7 +4,6 @@
 - [相关工具]()
 - [Github 使用]()
 
-
 ## 一、Git教程
 
 搜集了网络上比较好的 Git 使用教程，可以根据自身情况选择一个进行学习, 大部分的教程都涵盖了
@@ -15,6 +14,7 @@
 
 教程 | 描述 | 地址
 ---|---|---
+Git官网 | 文字、视频 | [开始学习](https://git-scm.com/doc)
 廖雪峰Git教程 (**推荐**) | 文字、图片、视频| [开始学习](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 Github官方Git教程 | 交互模式 | [开始学习](https://try.github.io/levels/1/challenges/5)
 OSChina Git教程 | 文字、图片 | [开始学习](https://git.oschina.net/progit/)
