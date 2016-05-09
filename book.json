@@ -1,7 +1,8 @@
 {
     "plugins": [
         "multipart",
-        "edit-link"
+        "edit-link",
+        "comment"
     ],
     "pluginsConfig": {
         "edit-link": {
