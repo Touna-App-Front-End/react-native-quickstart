@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "",
+            "base": "https://github.com/Touna-App-Front-End/rnrstudy/edit/master/Docs/",
             "label": "Edit This Page"
         }
     }
