@@ -12,6 +12,10 @@
         },
         "comment": {
             "highlightCommented": true
+        },
+        "disqus": {
+            "shortName": "rnrstudy",
+            "useIdentifier": false
         }
     }
 }
