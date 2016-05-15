@@ -2,7 +2,8 @@
     "plugins": [
         "multipart",
         "edit-link",
-        "comment"
+        "comment",
+        "disqus"
     ],
     "pluginsConfig": {
         "edit-link": {
