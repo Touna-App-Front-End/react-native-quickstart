@@ -6,7 +6,7 @@
 https://github.com/Touna-App-Front-End/EMACScriptDemo
 ```
 
-如果你打算自己创建工程可以参考：[环境搭建](Docs/Basics/ECMAScript/huan_jing_da_jian.md)
+如果你打算自己创建工程可以参考：[环境搭建](/Docs/Basics/ECMAScript/huan_jing_da_jian.md)
 
 ## 一、let和const命令
 
