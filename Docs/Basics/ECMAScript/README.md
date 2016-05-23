@@ -18,3 +18,9 @@
 ### 2. ES6、ES7
 
 它们指的的 ECMAScript 标准的版本, 因为 ES6 是在 2015 年发布的, 所以也叫做 ES2015.
+
+## 三、参考
+
+本教程里面的示例参考自：
+
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/)
