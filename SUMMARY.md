@@ -10,7 +10,7 @@
    * [JavaScript](Docs/Basics/JavaScript/README.md)
    * [ECMAScript](Docs/Basics/ECMAScript/README.md)
        * [环境搭建](Docs/Basics/ECMAScript/huan_jing_da_jian.md)
-       * [语法](Docs/Basics/ECMAScript/yu_fa.md)
+       * [let与const](Docs/Basics/ECMAScript/yu_fa.md)
    * [React.js](Docs/Basics/ReactJS/README.md)
 * [ReactNative](Docs/ReactNative/README.md)
 * [Redux](Docs/Redux/README.md)
