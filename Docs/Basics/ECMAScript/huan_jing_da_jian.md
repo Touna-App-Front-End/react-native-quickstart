@@ -13,7 +13,8 @@
 4. 为了可以在我们编写完 js 代码后, 浏览器可以自动刷新, 我们需要安装如下的包：
 
 	```
-	npm install --save-dev browser-sync
+	npm install -g browser-sync
+    npm install --save-dev browser-sync
 	```
 
 5. 这里我们为了可以让文件在修改后, 先进行 es6 转换, 然后再自动刷新浏览器, 我们使用 `gulp` 任务管理器来完成这些操作。
