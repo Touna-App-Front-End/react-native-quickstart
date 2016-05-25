@@ -19,7 +19,7 @@
             "useIdentifier": false
         },
         "jsfiddle": {
-            "type":"script"
+            "type":"script",
             "tabs":["result","js","css", "html"],
             "height": "500",
             "width": "500",
