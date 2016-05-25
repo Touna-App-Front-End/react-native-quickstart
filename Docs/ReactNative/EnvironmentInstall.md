@@ -54,8 +54,13 @@ brew install flow
 ```
 cnpm install -g react-native-cli
 ```
+9、安装 rnpm (React Native Package Manager)
 
-9、创建项目
+```
+npm install -g rnpm
+```
+
+10、创建项目
 
 ```
 react-native init hello
@@ -77,3 +82,13 @@ react-native init hello
 
 2695 directories, 14329 files
 ```
+
+11、设置依赖并运行
+
+```
+npm install
+rnpm link
+react-native run-ios
+npm start
+```
+
