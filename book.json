@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "multipart",
         "edit-link",
         "comment",
         "disqus",
