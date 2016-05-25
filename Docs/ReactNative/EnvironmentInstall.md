@@ -4,7 +4,7 @@
 
 2、安装 Iterm2、Oh My Zsh (可选安装)
 
-   2.1、[Iterm2](https://www.iterm2.com) 比原生的 Terminal 增加了很多的特性, 如: 
+  2.1、[Iterm2](https://www.iterm2.com) 比原生的 Terminal 增加了很多的特性, 如: 
 
   1.  分窗口操作：shift+command+d（横向）command+d（竖向）
   2.  查找和粘贴：command+f，呼出查找功能，tab 键选中找到的文本，option+enter 粘贴
