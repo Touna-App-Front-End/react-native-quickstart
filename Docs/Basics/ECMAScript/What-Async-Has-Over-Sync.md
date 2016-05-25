@@ -6,7 +6,37 @@
 
 **每个window一个JS线程??**
 
-## 二、
+
+## 二、浏览器不是单线程
+
+虽然JS运行在浏览器中，是单线程的，每个window一个JS线程，但浏览器不是单线程的，例如Webkit或是Gecko引擎，都可能有如下线程：
+
+- javascript引擎线程
+- 界面渲染线程
+- 浏览器事件触发线程
+- Http请求线程
+- 
+很多童鞋搞不清，如果js是单线程的，那么谁去轮询大的Event loop事件队列？答案是浏览器会有单独的线程去处理这个队列。
+
+## 三、JavaScript 运行机制详解
+
+![2016-05-25_1464168842851303527.png](http://p.simman.cc/2016-05-25_1464168842851303527.png)
+
+
+## 四、定时器
+```
+console.log(1);
+setTimeout(function(){console.log(2);},1000);
+console.log(3);
+```
+
+```
+setTimeout(function(){console.log(1);}, 0);
+console.log(2);
+```
+
+
+
 
 
 ## Web Worker
