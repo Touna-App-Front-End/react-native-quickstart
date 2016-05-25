@@ -4,9 +4,10 @@
 
 2、安装 Iterm2、Oh My Zsh (可选安装)
 
-  2.1、[Iterm2](https://www.iterm2.com) 比原生的 Terminal 增加了很多的特性.
-  
-  3.2.2、[Oh My Zsh](http://ohmyz.sh/)
+1. [Iterm2](https://www.iterm2.com) 比原生的 Terminal 增加了很多的特性.
+2. [Oh My Zsh](http://ohmyz.sh/) 
+
+参考自: [菜鸟级 Mac 配置（二）](http://geekplux.com/2014/03/03/mac_configuration_2.html)
 
 3、安装 Homebrew (Mac os x上的包管理,如Ubuntu的 apt-get)
 
@@ -22,7 +23,9 @@ git clone https://github.com/cnpm/nvm.git ~/.nvm && cd ~/.nvm && git checkout `g
 . ~/.nvm/nvm.sh
 ```
 
-然后打开 ~/.bashrc ,  ~/.profile , or  ~/.zshrc这三个文件，在其中添加：
+然后打开 ~/.bashrc 、 ~/.profile , or  ~/.zshrc这三个文件，在其中添加：
+
+**注: ** 上面的文件可能会没有,请自行创建, 如果安装了 oh my zsh , 会自动生成 .zshrc 文件
 
 ```
 source ~/.nvm/nvm.sh
