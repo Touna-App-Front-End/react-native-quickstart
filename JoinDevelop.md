@@ -4,7 +4,7 @@
 ## 一、如何加入项目
 
 1. 首先去 [coding.net](https://coding.net/register?key=017c2cd0-97d8-40e5-9a29-38071c245bd1) 注册一个账号, 注册完后需要把 邮箱或者用户名 发送给 @simman
-2. 待 @simman 通过申请以后, 请自行进入项目, 拉去最新的代码. 
+2. 待 @simman 通过申请以后, 请自行进入项目, 拉取最新的代码. 
 3. coding.net 与 git、git gui 的使用与推荐情参考：[Git使用教程](https://simman.gitbooks.io/rnrstudy/content/Docs/Basics/GIT/)
 
 ## 二、每日必做
