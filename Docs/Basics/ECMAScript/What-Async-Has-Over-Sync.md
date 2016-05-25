@@ -65,7 +65,7 @@ my name is f2...
 
 ### 5.2 事件监听
 
-
+https://jsfiddle.net/jamiguel77/atg5m6ym/
 
 ### 5.3 发布/订阅 （观察者)
 
@@ -93,4 +93,3 @@ Web Worker 是HTML5标准的一部分，这一规范定义了一套 API，它允
 - [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 - [Javascript是单线程的深入分析](http://www.cnblogs.com/Mainz/p/3552717.html)
 - [异步操作和Async函数](http://es6.ruanyifeng.com/#docs/async)
-- 
