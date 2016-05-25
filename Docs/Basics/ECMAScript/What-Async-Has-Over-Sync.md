@@ -4,6 +4,8 @@
 
 众所周知, Javascript 是单线程运行的, 是因为当时设计 Javascript 的初衷为用户交互、操作 DOM, 这决定了它只能是单线程，否则会带来很复杂的同步问题。比如，假定JavaScript同时有两个线程，一个线程在某个DOM节点上添加内容，另一个线程删除了这个节点，这时浏览器应该以哪个线程为准？
 
+**每个window一个JS线程??**
+
 ## 二、
 
 
@@ -16,3 +18,13 @@ Web Worker 是HTML5标准的一部分，这一规范定义了一套 API，它允
 - [【转向Javascript系列】深入理解Web Worker](http://www.alloyteam.com/2015/11/deep-in-web-worker/)
 -  [js多线程运行之web worker](http://www.yi-jy.com/2014/09/19/js%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%BF%90%E8%A1%8C%E4%B9%8Bweb-worker/)
 -  [Web Workers 的基本信息](http://www.html5rocks.com/zh/tutorials/workers/basics/)
+
+
+## 异步编程
+
+- [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+- [JavaScript异步编程原理](http://www.cnblogs.com/hustskyking/p/javascript-asynchronous-programming.html)
+- [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+- [Javascript是单线程的深入分析](http://www.cnblogs.com/Mainz/p/3552717.html)
+- [异步操作和Async函数](http://es6.ruanyifeng.com/#docs/async)
+- 
