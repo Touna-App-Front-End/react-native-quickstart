@@ -29,7 +29,6 @@
     "plugins": [
         "disqus",
         "anchors",
-        "maxiang",
         "ungrey",
         "toggle-chapters",
         "codeblock-filename",
@@ -37,7 +36,8 @@
         "-highlight",
         "pygments",
         "edit-link",
-        "jsfiddle"
+        "jsfiddle",
+        "comment"
     ],
     "pluginsConfig": {
         "edit-link": {
