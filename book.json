@@ -1,14 +1,47 @@
 {
+    "author": "SimMan <liwei0990@gmail.com>",
+    "description": "React Native Quickstart",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
     "plugins": [
+        "disqus",
+        "anchors",
+        "maxiang",
+        "ungrey",
+        "toggle-chapters",
+        "codeblock-filename",
+        "-sharing",
+        "-highlight",
+        "pygments",
         "edit-link",
         "comment",
-        "disqus",
-        "jsfiddle",
-        "multipart"
+        "jsfiddle"
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/Touna-App-Front-End/rnrstudy/edit/master",
+            "base": "https://github.com/Touna-App-Front-End/react-native-quickstart/edit/master",
             "label": "Edit This Page"
         },
         "comment": {
@@ -20,12 +53,7 @@
         },
         "jsfiddle": {
             "type": "script",
-            "tabs": [
-                "result",
-                "js",
-                "css",
-                "html"
-            ],
+            "tabs": ["result", "js", "css", "html"],
             "height": "500",
             "width": "500",
             "fontColor": "00FF00"
