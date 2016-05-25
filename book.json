@@ -3,7 +3,8 @@
         "edit-link",
         "comment",
         "disqus",
-        "jsfiddle"
+        "jsfiddle",
+        "multipart"
     ],
     "pluginsConfig": {
         "edit-link": {
