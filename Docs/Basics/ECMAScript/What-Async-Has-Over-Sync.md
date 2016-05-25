@@ -35,11 +35,45 @@ setTimeout(function(){console.log(1);}, 0);
 console.log(2);
 ```
 
+## 五、异步模式的四种方法
+
+### 5.1 回调函数
+
+```
+function f1(callback){
+  setTimeout(function () {
+    console.log('my name is f1...');
+    callback();
+  }, 1000);
+}
+
+function f2() {
+  console.log('my name is f2...');
+}
+
+f1(f2);
+
+console.log('========= end =========');
+
+// log
+========= end =========
+my name is f1...
+my name is f2...
+```
+
+[source code](https://jsfiddle.net/liwei0990/d3ngc42c/)
+
+### 5.2 事件监听
 
 
 
+### 5.3 发布/订阅 （观察者)
 
-## Web Worker
+### 5.4 Promises对象
+
+
+
+## 六、Web Worker
 
 Web Worker 是HTML5标准的一部分，这一规范定义了一套 API，它允许一段JavaScript程序运行在主线程之外的另外一个线程中。Web Worker 规范中定义了两类工作线程，分别是专用线程Dedicated Worker和共享线程 Shared Worker，其中，Dedicated Worker只能为一个页面所使用，而Shared Worker则可以被多个页面所共享。
 
