@@ -1,6 +1,7 @@
 {
     "author": "SimMan <liwei0990@gmail.com>",
     "description": "React Native Quickstart",
+    "gitbook": ">=2.4.0",
     "extension": null,
     "generator": "site",
     "links": {
