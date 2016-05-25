@@ -14,7 +14,7 @@
        * [变量的结构赋值](Docs/Basics/ECMAScript/destructuring.md)
 * [React.js](Docs/Basics/ReactJS/README.md)
 * [ReactNative](Docs/ReactNative/README.md)
-   * 环境安装
+   * [环境安装](Docs/ReactNative/EnvironmentInstall.md)
 * [Redux](Docs/Redux/README.md)
 * [示例：过期提醒App](Docs/Examples/README.md)
 
