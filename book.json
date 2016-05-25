@@ -1,18 +1,44 @@
 {
-    "author": "SimMan <liwei0990@gmail.com>",
-    "description": "React Native Quickstart",
-    "gitbook": "2.6.1",
-    "extension": null,
-    "generator": "site",
-    "links": {
-        "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
+    "plugins": [
+        "disqus",
+        "anchors",
+        "ungrey",
+        "toggle-chapters",
+        "codeblock-filename",
+        "-sharing",
+        "-highlight",
+        "pygments",
+        "edit-link",
+        "jsfiddle",
+        "comment",
+        "copy-code-button"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "rnrstudy",
+            "useIdentifier": false
+        },
+        "edit-link": {
+            "base": "https://github.com/Touna-App-Front-End/react-native-quickstart/edit/master",
+            "label": "Edit This Page"
+        },
+        "jsfiddle": {
+            "type": "script",
+            "tabs": [
+                "result",
+                "js",
+                "css",
+                "html"
+            ],
+            "height": "500",
+            "width": "500",
+            "fontColor": "00FF00"
+        },
+        "comment": {
+            "highlightCommented": true
         }
     },
+    "author": "SimMan <liwei0990@gmail.com>",
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
@@ -26,37 +52,17 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [
-        "disqus",
-        "anchors",
-        "ungrey",
-        "toggle-chapters",
-        "codeblock-filename",
-        "-sharing",
-        "-highlight",
-        "pygments",
-        "edit-link",
-        "jsfiddle",
-        "comment"
-    ],
-    "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/Touna-App-Front-End/react-native-quickstart/edit/master",
-            "label": "Edit This Page"
-        },
-        "comment": {
-            "highlightCommented": true
-        },
-        "disqus": {
-            "shortName": "rnrstudy",
-            "useIdentifier": false
-        },
-        "jsfiddle": {
-            "type": "script",
-            "tabs": ["result", "js", "css", "html"],
-            "height": "500",
-            "width": "500",
-            "fontColor": "00FF00"
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
         }
-    }
+    },
+    "gitbook": "2.6.1",
+    "description": "React Native Quickstart",
+    "extension": null
 }
