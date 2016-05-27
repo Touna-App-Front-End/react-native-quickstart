@@ -21,5 +21,5 @@
 * [Redux](Docs/Redux/README.md)
 * [示例：过期提醒App](Docs/Examples/README.md)
 * [加入项目开发](JoinDevelop.md)
-* 其他
+* [其他](Other.md)
 
