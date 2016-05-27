@@ -11,7 +11,8 @@
         "edit-link",
         "jsfiddle",
         "comment",
-        "copy-code-button"
+        "copy-code-button",
+        "asciinema"
     ],
     "pluginsConfig": {
         "disqus": {
