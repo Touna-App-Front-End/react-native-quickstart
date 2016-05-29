@@ -1,11 +1,12 @@
 # React Native Quickstart
 
-![](./cover.jpg)
-
-
 《React Native 快速上手手册》
 
 Github 地址： [https://github.com/Touna-App-Front-End/react-native-quickstart](https://github.com/Touna-App-Front-End/react-native-quickstart) .
+
+### 在线阅读
+
+1. [React Native Quickstart](https://simman.gitbooks.io/react-native-quickstart/content/)
 
 ### 离线阅读
 
