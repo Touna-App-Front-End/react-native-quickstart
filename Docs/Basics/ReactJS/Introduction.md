@@ -98,7 +98,11 @@ Facebook工程经理Tom Occhino说，由于他们“非常巨大”的代码库�
 
 ![](http://p.simman.cc/2016-05-27_1464285844186889147.png)
 
-而 Flux 单向数据流中的Store包含了应用的所有数据，Dispatcher替换了原来的Controller，当Action触发时，决定了Store如何更新。当Store变化后，View同时被更新，还可以生成一个由Dispatcher处理的Action。这确保了数据在系统组件间单向流动。当系统有多个Store和View时，仍可视为只有一个Store和一个View，因为数据只朝一个方向流动，并且不同的Store和View之间不会直接影响彼此。
+当应用足够复杂的时候, 你会发现它已经变成了如下模样:
+
+![2016-05-30_1464540382986666029.png](http://p.simman.cc/2016-05-30_1464540382986666029.png)
+
+而 **Flux** 单向数据流中的Store包含了应用的所有数据，Dispatcher替换了原来的Controller，当Action触发时，决定了Store如何更新。当Store变化后，View同时被更新，还可以生成一个由Dispatcher处理的Action。这确保了数据在系统组件间单向流动。当系统有多个Store和View时，仍可视为只有一个Store和一个View，因为数据只朝一个方向流动，并且不同的Store和View之间不会直接影响彼此。
 
 ![](http://p.simman.cc/2016-05-27_1464286154372928166.png)
 
