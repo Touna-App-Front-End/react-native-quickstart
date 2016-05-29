@@ -81,4 +81,4 @@ browser-sync start --server --files "*.html, app/**/*.js"
 
 ok, 到此我们最基本的 React.js 开发环境已经完成, 下面是环境的安装的视频演示, 如果你已经配置好, 请直接进入下一课程.
 
-[![asciicast](https://asciinema.org/a/47196.png)](https://asciinema.org/a/47196)
+{% asciinema %}47196{% endasciinema %}
