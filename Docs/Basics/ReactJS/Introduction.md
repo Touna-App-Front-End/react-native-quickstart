@@ -113,3 +113,4 @@ Facebook工程经理Tom Occhino说，由于他们“非常巨大”的代码库�
 
 - [虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 - [React 的 diff 算法](https://segmentfault.com/a/1190000000606216)
+- [Flux应用架构](http://reactjs.cn/react/docs/flux-overview.html)
