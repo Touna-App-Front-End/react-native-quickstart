@@ -17,7 +17,7 @@
    * [React.js 简介](Docs/Basics/ReactJS/Introduction.md)
    * [环境搭建](Docs/Basics/ReactJS/EnvironmentInstall.md)
    * [用户登陆](Docs/Basics/ReactJS/UserLogin.md)
-   * 用户注册
+   * [用户注册](Docs/Basics/ReactJS/UserRegister.md)
 * [ReactNative](Docs/ReactNative/README.md)
    * [环境安装](Docs/ReactNative/EnvironmentInstall.md)
 * [Redux](Docs/Redux/README.md)
