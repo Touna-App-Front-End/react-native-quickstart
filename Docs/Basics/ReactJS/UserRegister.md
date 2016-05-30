@@ -30,3 +30,5 @@ ReactDOM.render(
 
 第三步是使用 `ReactDOM.render()` 方法进行 实例化根组件，启动框架，把标记注入到第二个参数指定的原生的 DOM 元素中。ReactDOM 模块提供了一些 DOM 相关的方法，而 React 模块包含了 React 团队分享的不同平台上的核心工具（例如， React Native ）。
 
+## 编写第一个组件
+
