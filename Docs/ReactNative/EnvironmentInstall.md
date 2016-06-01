@@ -69,6 +69,8 @@ react-native init hello
 
 加上 `--verbose` 显示安装详细信息
 
+> 另，执行init时切记不要在前面加上sudo（否则新项目的目录所有者会变为root而不是当前用户，导致一系列权限问题，请使用chown修复）。
+
 目录结构如下：
 
 ```
