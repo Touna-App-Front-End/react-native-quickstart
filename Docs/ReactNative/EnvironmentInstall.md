@@ -37,10 +37,11 @@ source ~/.nvm/nvm.sh
 nvm install node && nvm alias default node
 ```
 
-6、安装 cnpm (node 的包管理为 npm，因为天朝原因,故推荐taobao的 cnpm)
+6、替换 npm 仓库为淘宝国内源
 
 ```
-npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm config set registry https://registry.npm.taobao.org --global
+npm config set disturl https://npm.taobao.org/dist --global
 ```
 
 7、安装 `watchman`  (实时监测文件修改), `flow` (JavaScript 的静态类型检查器)
