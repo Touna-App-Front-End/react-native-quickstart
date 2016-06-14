@@ -17,3 +17,6 @@ Facebook 出的一款一旦被创造后，就不可以被改变的数据的js框
 - redux-logger
 - redux-thunk: 异步Action
 
+为了大家方便搭建环境, 代码已经传到 Github上. 
+
+https://github.com/Touna-App-Front-End/redux-tutorial
