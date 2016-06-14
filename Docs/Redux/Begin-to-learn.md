@@ -6,7 +6,7 @@
 
 Facebook 出的一款一旦被创造后，就不可以被改变的数据的js框架. 虽然你可以用 ES2015 的新特性 [Object.assign()](http://es6.ruanyifeng.com/#docs/object#Object-assign), 但是他还是属于浅拷贝, 请参考 [](http://www.softwhy.com/forum.php?mod=viewthread&tid=20298)
 
-<iframe width="100%" height="350" src="http://jsbin.com/movibe/latest/embed?js" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<a class="jsbin-embed" href="http://jsbin.com/goyaqo/2/embed?html&height=600px">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.11"></script>
 
 - react
 - react-native
