@@ -21,7 +21,7 @@
 * [ReactNative](Docs/ReactNative/README.md)
    * [环境安装](Docs/ReactNative/EnvironmentInstall.md)
 * [Redux](Docs/Redux/README.md)
-   * 简介
+   * [简介](Docs/Redux/introduction.md)
 * [示例：过期提醒App](Docs/Examples/README.md)
 * [加入项目开发](JoinDevelop.md)
 * [其他](Other.md)
