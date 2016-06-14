@@ -12,7 +12,8 @@
         "jsfiddle",
         "comment",
         "copy-code-button",
-        "asciinema"
+        "asciinema",
+        "jsbin"
     ],
     "pluginsConfig": {
         "disqus": {
