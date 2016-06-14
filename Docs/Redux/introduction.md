@@ -27,3 +27,6 @@ Redux 是 JavaScript 状态容器，提供可预测化的状态管理。
 在一个应用中有且只有一个 Store 来存储 state, 并且数据流完全根据如下方式进行传递:
 
 ![2016-06-15_1465928976336872926.png](http://p.simman.cc/2016-06-15_1465928976336872926.png)
+
+
+最后还要说明一下 Redux 和 React 之间没有关系。Redux 支持 React、Angular、Ember、jQuery 甚至纯 JavaScript。
