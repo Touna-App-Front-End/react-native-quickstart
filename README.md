@@ -14,3 +14,6 @@ Github 地址： [https://github.com/Touna-App-Front-End/react-native-quickstart
 2. [ePub下载](https://www.gitbook.com/download/epub/book/simman/react-native-quickstart)
 3. [Mobi下载](https://www.gitbook.com/download/mobi/book/simman/react-native-quickstart)
 
+### 作者列表
+
+1. [@SimMan](https://simman.cc), Github: [https://github.com/simman](https://github.com/simman)
